@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krohr\\source\\repos\\NovPg2Prep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F992A814-7B92-49B9-A043-78054635FFAF}|NovPg2Prep\\NovPg2Prep.vcxproj|C:\\Users\\krohr\\source\\repos\\NovPg2Prep\\NovPg2Prep\\NovPg2Prep.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F992A814-7B92-49B9-A043-78054635FFAF}|NovPg2Prep\\NovPg2Prep.vcxproj|solutionrelative:NovPg2Prep\\NovPg2Prep.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NovPg2Prep.cpp",
+              "DocumentMoniker": "C:\\Users\\krohr\\source\\repos\\NovPg2Prep\\NovPg2Prep\\NovPg2Prep.cpp",
+              "RelativeDocumentMoniker": "NovPg2Prep\\NovPg2Prep.cpp",
+              "ToolTip": "C:\\Users\\krohr\\source\\repos\\NovPg2Prep\\NovPg2Prep\\NovPg2Prep.cpp",
+              "RelativeToolTip": "NovPg2Prep\\NovPg2Prep.cpp",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAmwMQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T18:13:58.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
